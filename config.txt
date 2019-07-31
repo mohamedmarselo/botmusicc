@@ -1,0 +1,6 @@
+owner=555081750712287272
+prefix=m
+game=Marselo Music|MPLAY
+stayinchannel=true
+songinstatus=false
+token=NjA2MDc3Mjk5OTc2MTc1NjE3.XUFzlA.qKoZ9rbrUozUHTso9sfjbdQHlUU
